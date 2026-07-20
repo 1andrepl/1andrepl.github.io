@@ -1,0 +1,1 @@
+The andre-branch is dedicated to personal commits related to activities and projects, whereas the main branch is reserved for more general updates.
